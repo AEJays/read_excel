@@ -1,0 +1,27 @@
+{
+  "name": "excelRead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-route": "^3.2.0",
+    "node-xlsx": "^0.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEdgejay/read_excel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AEdgejay/read_excel/issues"
+  },
+  "homepage": "https://github.com/AEdgejay/read_excel#readme"
+}
