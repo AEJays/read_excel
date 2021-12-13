@@ -42,7 +42,7 @@ The name attribute must be "excel" or an error will be reported.
 
 ## Author Say
 
-If you have any questions, please contact me by email or leave a message on Question.
+If you have any questions, please contact me by email or leave a message on Issues.
 
 ## Author Email
 
